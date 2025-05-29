@@ -26,9 +26,10 @@ let count = 0;
 await easyRecurse("./", (filepath, parent, i) => {
   count++;
   let stat = fs.statSync(filepath);
-  if (filepath.endsWith("node_modules")) {
+  if (filepath.endsWith("node_modules") || filepath.endsWith(".git")) {
     return;
   }
+
   if (!stat.isDirectory()) {
     return;
   }
