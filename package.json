@@ -1,6 +1,6 @@
 {
   "name": "easy-recurse",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Let you use recursion in javascript easier. 让你更容易的使用 javascript 递归。",
   "license": "MIT",
   "type": "module",

@@ -1,9 +1,9 @@
 # easy-recurse
 
+![language](https://img.shields.io/github/languages/top/phphe/easy-recurse?style=for-the-badge)
 ![license](https://img.shields.io/npm/l/easy-recurse?style=for-the-badge)
 ![npm version](https://img.shields.io/npm/v/easy-recurse?style=for-the-badge)
 ![workflow](https://img.shields.io/github/actions/workflow/status/phphe/easy-recurse/test.yml?style=for-the-badge)
-![downloads](https://img.shields.io/npm/dm/%40he-tree/vue?style=for-the-badge)
 ![npm bundle size (scoped)](https://img.shields.io/bundlephobia/minzip/easy-recurse?style=for-the-badge)
 
 Let you use recursion in javascript easier. 让你更容易的使用 javascript 递归。
